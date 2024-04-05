@@ -1,5 +1,5 @@
 public class EquilibriumIndex {
-//    Q Given an array, return true if there exists an equlibrium index in the array.
+//    Q Given an array, return true if there exists an equilibrium index in the array.
     public static void main(String[] args) {
         int[] array = {1,2,3,4,8,10};
         boolean equilibriumCheck = equilibriumorNot(array);
